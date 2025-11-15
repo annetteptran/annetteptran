@@ -1,19 +1,17 @@
-# Annette Tran
-
 Welcome to my GitHub profile! I’m a Computer Science student at the University of Houston with a strong interest in software engineering, AI/ML, and building practical, efficient systems. I enjoy learning new technologies, creating user-focused applications, and solving problems through clean and thoughtful design.
 
 I’m motivated by growth and enjoy taking on projects that challenge what I already know. I focus on staying curious, improving consistently, and building work I can be proud of :)
 
 ---
 
-## Technical Skills
+## 🔧 Technical Skills
 **Languages:** Python, C++, Java, JavaScript, SQL  
 **Tools & Frameworks:** React.js, Node.js, Express, MongoDB, MySQL, Git, Unity  
 **Core Interests:** Machine Learning, Data Processing, Backend Systems, Full-Stack Development  
 
 ---
 
-## Projects I've Worked On
+## 💻 Projects I've Worked On
 
 ### ATminiCNN (public)
 A lightweight convolutional neural network written from scratch.  
@@ -28,13 +26,13 @@ Built with React, Node.js, Express, and MongoDB.
 
 ---
 
-## Currently Learning
+## 🌱 Currently Learning
 - AWS Cloud (Cloud Practitioner)  
 - Machine learning model development  
 - Backend architecture and API design  
 
 ---
 
-## Contact
+## ✉️ Contact
 Email: annetteptran@gmail.com  
 LinkedIn: https://www.linkedin.com/in/annetteptran  
