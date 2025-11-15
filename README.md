@@ -24,16 +24,7 @@ A Python-based pipeline that integrates FinBERT sentiment scoring with market tr
 
 ### Volunteer Platform (Full-Stack Web App)  
 A full-stack application with role-based login, event management, and skill-based volunteer matching.  
-Built with React, Node.js, Express, and MongoDB.
-
----
-
-## Experience
-
-### IT Operations Intern — Texas Oncology  
-- Supported enterprise clinic environments with device imaging, deployment, and troubleshooting  
-- Worked with on-site hardware, networks, and enterprise software systems  
-- Gained hands-on experience with IT operations in a real healthcare setting  
+Built with React, Node.js, Express, and MongoDB. 
 
 ---
 
@@ -46,5 +37,4 @@ Built with React, Node.js, Express, and MongoDB.
 
 ## Contact
 Email: annetteptran@gmail.com  
-LinkedIn: https://linkedin.com/in/annetteptran  
-GitHub: https://github.com/annetteptran  
+LinkedIn: https://www.linkedin.com/in/annetteptran  
