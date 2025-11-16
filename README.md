@@ -1,4 +1,4 @@
-I’m a Computer Science student at the University of Houston with growing interests in Software Engineering and AI/ML. I enjoy learning new technologies and finding practical ways to turn them into simple, useful applications. I’m focused on writing clean and thoughtful code while continuing to build my skills and grow! :)
+Hi! I’m a Computer Science student at the University of Houston with growing interests in Software Engineering and AI/ML. I enjoy learning new technologies and finding practical ways to turn them into simple, useful applications. I’m focused on writing clean and thoughtful code while continuing to build my skills and grow! :)
 
 ## 🔧 Technical Skills
 **Languages:** Python, C++, Java, JavaScript, SQL  
