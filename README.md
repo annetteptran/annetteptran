@@ -1,8 +1,4 @@
-Welcome to my GitHub profile! I’m a Computer Science student at the University of Houston with a strong interest in software engineering, AI/ML, and building practical, efficient systems. I enjoy learning new technologies, creating user-focused applications, and solving problems through clean and thoughtful design.
-
-I’m motivated by growth and enjoy taking on projects that challenge what I already know. I focus on staying curious, improving consistently, and building work I can be proud of :)
-
----
+I’m a Computer Science student at the University of Houston with growing interests in Software Engineering and AI/ML. I enjoy learning new technologies and finding practical ways to turn them into simple, useful applications. I’m focused on writing clean and thoughtful code while continuing to build my skills and grow! :)
 
 ## 🔧 Technical Skills
 **Languages:** Python, C++, Java, JavaScript, SQL  
